@@ -2,7 +2,7 @@
 /**
  * Plugin Name: WooCommerce Tracking Facebook Conversion
  * Plugin URI: http://www.pabloribeiro.net
- * Description: Plugin send conversion for facebook ads
+ * Description: Plugin send conversion for facebook ads. Confira a versão premium de nossos plugins em <a href="http://www.magmastore.com.br/">http://www.magmastore.com.br/</a>.
  * Version: 1.0.0
  * Author: agenciamagma, Pablo Ribeiro, Carlos Cardoso Dias
  * Author URI: http://agenciamagma.com.br
